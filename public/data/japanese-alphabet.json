@@ -1,0 +1,322 @@
+{
+  "hiragana": {
+    "basic": [
+      {"id": 1, "character": "あ", "romaji": "a", "row": "a", "audio": "/sounds/hiragana/a.mp3"},
+      {"id": 2, "character": "い", "romaji": "i", "row": "a", "audio": "/sounds/hiragana/i.mp3"},
+      {"id": 3, "character": "う", "romaji": "u", "row": "a", "audio": "/sounds/hiragana/u.mp3"},
+      {"id": 4, "character": "え", "romaji": "e", "row": "a", "audio": "/sounds/hiragana/e.mp3"},
+      {"id": 5, "character": "お", "romaji": "o", "row": "a", "audio": "/sounds/hiragana/o.mp3"},
+      
+      {"id": 6, "character": "か", "romaji": "ka", "row": "k", "audio": "/sounds/hiragana/ka.mp3"},
+      {"id": 7, "character": "き", "romaji": "ki", "row": "k", "audio": "/sounds/hiragana/ki.mp3"},
+      {"id": 8, "character": "く", "romaji": "ku", "row": "k", "audio": "/sounds/hiragana/ku.mp3"},
+      {"id": 9, "character": "け", "romaji": "ke", "row": "k", "audio": "/sounds/hiragana/ke.mp3"},
+      {"id": 10, "character": "こ", "romaji": "ko", "row": "k", "audio": "/sounds/hiragana/ko.mp3"},
+      
+      {"id": 11, "character": "さ", "romaji": "sa", "row": "s", "audio": "/sounds/hiragana/sa.mp3"},
+      {"id": 12, "character": "し", "romaji": "shi", "row": "s", "audio": "/sounds/hiragana/shi.mp3"},
+      {"id": 13, "character": "す", "romaji": "su", "row": "s", "audio": "/sounds/hiragana/su.mp3"},
+      {"id": 14, "character": "せ", "romaji": "se", "row": "s", "audio": "/sounds/hiragana/se.mp3"},
+      {"id": 15, "character": "そ", "romaji": "so", "row": "s", "audio": "/sounds/hiragana/so.mp3"},
+      
+      {"id": 16, "character": "た", "romaji": "ta", "row": "t", "audio": "/sounds/hiragana/ta.mp3"},
+      {"id": 17, "character": "ち", "romaji": "chi", "row": "t", "audio": "/sounds/hiragana/chi.mp3"},
+      {"id": 18, "character": "つ", "romaji": "tsu", "row": "t", "audio": "/sounds/hiragana/tsu.mp3"},
+      {"id": 19, "character": "て", "romaji": "te", "row": "t", "audio": "/sounds/hiragana/te.mp3"},
+      {"id": 20, "character": "と", "romaji": "to", "row": "t", "audio": "/sounds/hiragana/to.mp3"},
+      
+      {"id": 21, "character": "な", "romaji": "na", "row": "n", "audio": "/sounds/hiragana/na.mp3"},
+      {"id": 22, "character": "に", "romaji": "ni", "row": "n", "audio": "/sounds/hiragana/ni.mp3"},
+      {"id": 23, "character": "ぬ", "romaji": "nu", "row": "n", "audio": "/sounds/hiragana/nu.mp3"},
+      {"id": 24, "character": "ね", "romaji": "ne", "row": "n", "audio": "/sounds/hiragana/ne.mp3"},
+      {"id": 25, "character": "の", "romaji": "no", "row": "n", "audio": "/sounds/hiragana/no.mp3"},
+      
+      {"id": 26, "character": "は", "romaji": "ha", "row": "h", "audio": "/sounds/hiragana/ha.mp3"},
+      {"id": 27, "character": "ひ", "romaji": "hi", "row": "h", "audio": "/sounds/hiragana/hi.mp3"},
+      {"id": 28, "character": "ふ", "romaji": "fu", "row": "h", "audio": "/sounds/hiragana/fu.mp3"},
+      {"id": 29, "character": "へ", "romaji": "he", "row": "h", "audio": "/sounds/hiragana/he.mp3"},
+      {"id": 30, "character": "ほ", "romaji": "ho", "row": "h", "audio": "/sounds/hiragana/ho.mp3"},
+      
+      {"id": 31, "character": "ま", "romaji": "ma", "row": "m", "audio": "/sounds/hiragana/ma.mp3"},
+      {"id": 32, "character": "み", "romaji": "mi", "row": "m", "audio": "/sounds/hiragana/mi.mp3"},
+      {"id": 33, "character": "む", "romaji": "mu", "row": "m", "audio": "/sounds/hiragana/mu.mp3"},
+      {"id": 34, "character": "め", "romaji": "me", "row": "m", "audio": "/sounds/hiragana/me.mp3"},
+      {"id": 35, "character": "も", "romaji": "mo", "row": "m", "audio": "/sounds/hiragana/mo.mp3"},
+      
+      {"id": 36, "character": "や", "romaji": "ya", "row": "y", "audio": "/sounds/hiragana/ya.mp3"},
+      {"id": 37, "character": "ゆ", "romaji": "yu", "row": "y", "audio": "/sounds/hiragana/yu.mp3"},
+      {"id": 38, "character": "よ", "romaji": "yo", "row": "y", "audio": "/sounds/hiragana/yo.mp3"},
+      
+      {"id": 39, "character": "ら", "romaji": "ra", "row": "r", "audio": "/sounds/hiragana/ra.mp3"},
+      {"id": 40, "character": "り", "romaji": "ri", "row": "r", "audio": "/sounds/hiragana/ri.mp3"},
+      {"id": 41, "character": "る", "romaji": "ru", "row": "r", "audio": "/sounds/hiragana/ru.mp3"},
+      {"id": 42, "character": "れ", "romaji": "re", "row": "r", "audio": "/sounds/hiragana/re.mp3"},
+      {"id": 43, "character": "ろ", "romaji": "ro", "row": "r", "audio": "/sounds/hiragana/ro.mp3"},
+      
+      {"id": 44, "character": "わ", "romaji": "wa", "row": "w", "audio": "/sounds/hiragana/wa.mp3"},
+      {"id": 45, "character": "を", "romaji": "wo", "row": "w", "audio": "/sounds/hiragana/wo.mp3"},
+      {"id": 46, "character": "ん", "romaji": "n", "row": "n", "audio": "/sounds/hiragana/n.mp3"}
+    ],
+    "dakuten": [
+      {"id": 51, "character": "が", "romaji": "ga", "row": "g", "audio": "/sounds/hiragana/ga.mp3"},
+      {"id": 52, "character": "ぎ", "romaji": "gi", "row": "g", "audio": "/sounds/hiragana/gi.mp3"},
+      {"id": 53, "character": "ぐ", "romaji": "gu", "row": "g", "audio": "/sounds/hiragana/gu.mp3"},
+      {"id": 54, "character": "げ", "romaji": "ge", "row": "g", "audio": "/sounds/hiragana/ge.mp3"},
+      {"id": 55, "character": "ご", "romaji": "go", "row": "g", "audio": "/sounds/hiragana/go.mp3"},
+      
+      {"id": 56, "character": "ざ", "romaji": "za", "row": "z", "audio": "/sounds/hiragana/za.mp3"},
+      {"id": 57, "character": "じ", "romaji": "ji", "row": "z", "audio": "/sounds/hiragana/ji.mp3"},
+      {"id": 58, "character": "ず", "romaji": "zu", "row": "z", "audio": "/sounds/hiragana/zu.mp3"},
+      {"id": 59, "character": "ぜ", "romaji": "ze", "row": "z", "audio": "/sounds/hiragana/ze.mp3"},
+      {"id": 60, "character": "ぞ", "romaji": "zo", "row": "z", "audio": "/sounds/hiragana/zo.mp3"},
+      
+      {"id": 61, "character": "だ", "romaji": "da", "row": "d", "audio": "/sounds/hiragana/da.mp3"},
+      {"id": 62, "character": "ぢ", "romaji": "ji", "row": "d", "audio": "/sounds/hiragana/dji.mp3"},
+      {"id": 63, "character": "づ", "romaji": "zu", "row": "d", "audio": "/sounds/hiragana/dzu.mp3"},
+      {"id": 64, "character": "で", "romaji": "de", "row": "d", "audio": "/sounds/hiragana/de.mp3"},
+      {"id": 65, "character": "ど", "romaji": "do", "row": "d", "audio": "/sounds/hiragana/do.mp3"},
+      
+      {"id": 66, "character": "ば", "romaji": "ba", "row": "b", "audio": "/sounds/hiragana/ba.mp3"},
+      {"id": 67, "character": "び", "romaji": "bi", "row": "b", "audio": "/sounds/hiragana/bi.mp3"},
+      {"id": 68, "character": "ぶ", "romaji": "bu", "row": "b", "audio": "/sounds/hiragana/bu.mp3"},
+      {"id": 69, "character": "べ", "romaji": "be", "row": "b", "audio": "/sounds/hiragana/be.mp3"},
+      {"id": 70, "character": "ぼ", "romaji": "bo", "row": "b", "audio": "/sounds/hiragana/bo.mp3"},
+      
+      {"id": 71, "character": "ぱ", "romaji": "pa", "row": "p", "audio": "/sounds/hiragana/pa.mp3"},
+      {"id": 72, "character": "ぴ", "romaji": "pi", "row": "p", "audio": "/sounds/hiragana/pi.mp3"},
+      {"id": 73, "character": "ぷ", "romaji": "pu", "row": "p", "audio": "/sounds/hiragana/pu.mp3"},
+      {"id": 74, "character": "ぺ", "romaji": "pe", "row": "p", "audio": "/sounds/hiragana/pe.mp3"},
+      {"id": 75, "character": "ぽ", "romaji": "po", "row": "p", "audio": "/sounds/hiragana/po.mp3"}
+    ],
+    "youon": [
+      {"id": 101, "character": "きゃ", "romaji": "kya", "row": "ky", "audio": "/sounds/hiragana/kya.mp3"},
+      {"id": 102, "character": "きゅ", "romaji": "kyu", "row": "ky", "audio": "/sounds/hiragana/kyu.mp3"},
+      {"id": 103, "character": "きょ", "romaji": "kyo", "row": "ky", "audio": "/sounds/hiragana/kyo.mp3"},
+      
+      {"id": 104, "character": "しゃ", "romaji": "sha", "row": "sh", "audio": "/sounds/hiragana/sha.mp3"},
+      {"id": 105, "character": "しゅ", "romaji": "shu", "row": "sh", "audio": "/sounds/hiragana/shu.mp3"},
+      {"id": 106, "character": "しょ", "romaji": "sho", "row": "sh", "audio": "/sounds/hiragana/sho.mp3"},
+      
+      {"id": 107, "character": "ちゃ", "romaji": "cha", "row": "ch", "audio": "/sounds/hiragana/cha.mp3"},
+      {"id": 108, "character": "ちゅ", "romaji": "chu", "row": "ch", "audio": "/sounds/hiragana/chu.mp3"},
+      {"id": 109, "character": "ちょ", "romaji": "cho", "row": "ch", "audio": "/sounds/hiragana/cho.mp3"},
+      
+      {"id": 110, "character": "にゃ", "romaji": "nya", "row": "ny", "audio": "/sounds/hiragana/nya.mp3"},
+      {"id": 111, "character": "にゅ", "romaji": "nyu", "row": "ny", "audio": "/sounds/hiragana/nyu.mp3"},
+      {"id": 112, "character": "にょ", "romaji": "nyo", "row": "ny", "audio": "/sounds/hiragana/nyo.mp3"},
+      
+      {"id": 113, "character": "ひゃ", "romaji": "hya", "row": "hy", "audio": "/sounds/hiragana/hya.mp3"},
+      {"id": 114, "character": "ひゅ", "romaji": "hyu", "row": "hy", "audio": "/sounds/hiragana/hyu.mp3"},
+      {"id": 115, "character": "ひょ", "romaji": "hyo", "row": "hy", "audio": "/sounds/hiragana/hyo.mp3"},
+      
+      {"id": 116, "character": "みゃ", "romaji": "mya", "row": "my", "audio": "/sounds/hiragana/mya.mp3"},
+      {"id": 117, "character": "みゅ", "romaji": "myu", "row": "my", "audio": "/sounds/hiragana/myu.mp3"},
+      {"id": 118, "character": "みょ", "romaji": "myo", "row": "my", "audio": "/sounds/hiragana/myo.mp3"},
+      
+      {"id": 119, "character": "りゃ", "romaji": "rya", "row": "ry", "audio": "/sounds/hiragana/rya.mp3"},
+      {"id": 120, "character": "りゅ", "romaji": "ryu", "row": "ry", "audio": "/sounds/hiragana/ryu.mp3"},
+      {"id": 121, "character": "りょ", "romaji": "ryo", "row": "ry", "audio": "/sounds/hiragana/ryo.mp3"},
+      
+      {"id": 122, "character": "ぎゃ", "romaji": "gya", "row": "gy", "audio": "/sounds/hiragana/gya.mp3"},
+      {"id": 123, "character": "ぎゅ", "romaji": "gyu", "row": "gy", "audio": "/sounds/hiragana/gyu.mp3"},
+      {"id": 124, "character": "ぎょ", "romaji": "gyo", "row": "gy", "audio": "/sounds/hiragana/gyo.mp3"},
+      
+      {"id": 125, "character": "じゃ", "romaji": "ja", "row": "j", "audio": "/sounds/hiragana/ja.mp3"},
+      {"id": 126, "character": "じゅ", "romaji": "ju", "row": "j", "audio": "/sounds/hiragana/ju.mp3"},
+      {"id": 127, "character": "じょ", "romaji": "jo", "row": "j", "audio": "/sounds/hiragana/jo.mp3"},
+      
+      {"id": 128, "character": "びゃ", "romaji": "bya", "row": "by", "audio": "/sounds/hiragana/bya.mp3"},
+      {"id": 129, "character": "びゅ", "romaji": "byu", "row": "by", "audio": "/sounds/hiragana/byu.mp3"},
+      {"id": 130, "character": "びょ", "romaji": "byo", "row": "by", "audio": "/sounds/hiragana/byo.mp3"},
+      
+      {"id": 131, "character": "ぴゃ", "romaji": "pya", "row": "py", "audio": "/sounds/hiragana/pya.mp3"},
+      {"id": 132, "character": "ぴゅ", "romaji": "pyu", "row": "py", "audio": "/sounds/hiragana/pyu.mp3"},
+      {"id": 133, "character": "ぴょ", "romaji": "pyo", "row": "py", "audio": "/sounds/hiragana/pyo.mp3"}
+    ]
+  },
+  "katakana": {
+    "basic": [
+      {"id": 201, "character": "ア", "romaji": "a", "row": "a", "audio": "/sounds/katakana/a.mp3"},
+      {"id": 202, "character": "イ", "romaji": "i", "row": "a", "audio": "/sounds/katakana/i.mp3"},
+      {"id": 203, "character": "ウ", "romaji": "u", "row": "a", "audio": "/sounds/katakana/u.mp3"},
+      {"id": 204, "character": "エ", "romaji": "e", "row": "a", "audio": "/sounds/katakana/e.mp3"},
+      {"id": 205, "character": "オ", "romaji": "o", "row": "a", "audio": "/sounds/katakana/o.mp3"},
+      
+      {"id": 206, "character": "カ", "romaji": "ka", "row": "k", "audio": "/sounds/katakana/ka.mp3"},
+      {"id": 207, "character": "キ", "romaji": "ki", "row": "k", "audio": "/sounds/katakana/ki.mp3"},
+      {"id": 208, "character": "ク", "romaji": "ku", "row": "k", "audio": "/sounds/katakana/ku.mp3"},
+      {"id": 209, "character": "ケ", "romaji": "ke", "row": "k", "audio": "/sounds/katakana/ke.mp3"},
+      {"id": 210, "character": "コ", "romaji": "ko", "row": "k", "audio": "/sounds/katakana/ko.mp3"},
+      
+      {"id": 211, "character": "サ", "romaji": "sa", "row": "s", "audio": "/sounds/katakana/sa.mp3"},
+      {"id": 212, "character": "シ", "romaji": "shi", "row": "s", "audio": "/sounds/katakana/shi.mp3"},
+      {"id": 213, "character": "ス", "romaji": "su", "row": "s", "audio": "/sounds/katakana/su.mp3"},
+      {"id": 214, "character": "セ", "romaji": "se", "row": "s", "audio": "/sounds/katakana/se.mp3"},
+      {"id": 215, "character": "ソ", "romaji": "so", "row": "s", "audio": "/sounds/katakana/so.mp3"},
+      
+      {"id": 216, "character": "タ", "romaji": "ta", "row": "t", "audio": "/sounds/katakana/ta.mp3"},
+      {"id": 217, "character": "チ", "romaji": "chi", "row": "t", "audio": "/sounds/katakana/chi.mp3"},
+      {"id": 218, "character": "ツ", "romaji": "tsu", "row": "t", "audio": "/sounds/katakana/tsu.mp3"},
+      {"id": 219, "character": "テ", "romaji": "te", "row": "t", "audio": "/sounds/katakana/te.mp3"},
+      {"id": 220, "character": "ト", "romaji": "to", "row": "t", "audio": "/sounds/katakana/to.mp3"},
+      
+      {"id": 221, "character": "ナ", "romaji": "na", "row": "n", "audio": "/sounds/katakana/na.mp3"},
+      {"id": 222, "character": "ニ", "romaji": "ni", "row": "n", "audio": "/sounds/katakana/ni.mp3"},
+      {"id": 223, "character": "ヌ", "romaji": "nu", "row": "n", "audio": "/sounds/katakana/nu.mp3"},
+      {"id": 224, "character": "ネ", "romaji": "ne", "row": "n", "audio": "/sounds/katakana/ne.mp3"},
+      {"id": 225, "character": "ノ", "romaji": "no", "row": "n", "audio": "/sounds/katakana/no.mp3"},
+      
+      {"id": 226, "character": "ハ", "romaji": "ha", "row": "h", "audio": "/sounds/katakana/ha.mp3"},
+      {"id": 227, "character": "ヒ", "romaji": "hi", "row": "h", "audio": "/sounds/katakana/hi.mp3"},
+      {"id": 228, "character": "フ", "romaji": "fu", "row": "h", "audio": "/sounds/katakana/fu.mp3"},
+      {"id": 229, "character": "ヘ", "romaji": "he", "row": "h", "audio": "/sounds/katakana/he.mp3"},
+      {"id": 230, "character": "ホ", "romaji": "ho", "row": "h", "audio": "/sounds/katakana/ho.mp3"},
+      
+      {"id": 231, "character": "マ", "romaji": "ma", "row": "m", "audio": "/sounds/katakana/ma.mp3"},
+      {"id": 232, "character": "ミ", "romaji": "mi", "row": "m", "audio": "/sounds/katakana/mi.mp3"},
+      {"id": 233, "character": "ム", "romaji": "mu", "row": "m", "audio": "/sounds/katakana/mu.mp3"},
+      {"id": 234, "character": "メ", "romaji": "me", "row": "m", "audio": "/sounds/katakana/me.mp3"},
+      {"id": 235, "character": "モ", "romaji": "mo", "row": "m", "audio": "/sounds/katakana/mo.mp3"},
+      
+      {"id": 236, "character": "ヤ", "romaji": "ya", "row": "y", "audio": "/sounds/katakana/ya.mp3"},
+      {"id": 237, "character": "ユ", "romaji": "yu", "row": "y", "audio": "/sounds/katakana/yu.mp3"},
+      {"id": 238, "character": "ヨ", "romaji": "yo", "row": "y", "audio": "/sounds/katakana/yo.mp3"},
+      
+      {"id": 239, "character": "ラ", "romaji": "ra", "row": "r", "audio": "/sounds/katakana/ra.mp3"},
+      {"id": 240, "character": "リ", "romaji": "ri", "row": "r", "audio": "/sounds/katakana/ri.mp3"},
+      {"id": 241, "character": "ル", "romaji": "ru", "row": "r", "audio": "/sounds/katakana/ru.mp3"},
+      {"id": 242, "character": "レ", "romaji": "re", "row": "r", "audio": "/sounds/katakana/re.mp3"},
+      {"id": 243, "character": "ロ", "romaji": "ro", "row": "r", "audio": "/sounds/katakana/ro.mp3"},
+      
+      {"id": 244, "character": "ワ", "romaji": "wa", "row": "w", "audio": "/sounds/katakana/wa.mp3"},
+      {"id": 245, "character": "ヲ", "romaji": "wo", "row": "w", "audio": "/sounds/katakana/wo.mp3"},
+      {"id": 246, "character": "ン", "romaji": "n", "row": "n", "audio": "/sounds/katakana/n.mp3"}
+    ],
+    "dakuten": [
+      {"id": 251, "character": "ガ", "romaji": "ga", "row": "g", "audio": "/sounds/katakana/ga.mp3"},
+      {"id": 252, "character": "ギ", "romaji": "gi", "row": "g", "audio": "/sounds/katakana/gi.mp3"},
+      {"id": 253, "character": "グ", "romaji": "gu", "row": "g", "audio": "/sounds/katakana/gu.mp3"},
+      {"id": 254, "character": "ゲ", "romaji": "ge", "row": "g", "audio": "/sounds/katakana/ge.mp3"},
+      {"id": 255, "character": "ゴ", "romaji": "go", "row": "g", "audio": "/sounds/katakana/go.mp3"},
+      
+      {"id": 256, "character": "ザ", "romaji": "za", "row": "z", "audio": "/sounds/katakana/za.mp3"},
+      {"id": 257, "character": "ジ", "romaji": "ji", "row": "z", "audio": "/sounds/katakana/ji.mp3"},
+      {"id": 258, "character": "ズ", "romaji": "zu", "row": "z", "audio": "/sounds/katakana/zu.mp3"},
+      {"id": 259, "character": "ゼ", "romaji": "ze", "row": "z", "audio": "/sounds/katakana/ze.mp3"},
+      {"id": 260, "character": "ゾ", "romaji": "zo", "row": "z", "audio": "/sounds/katakana/zo.mp3"},
+      
+      {"id": 261, "character": "ダ", "romaji": "da", "row": "d", "audio": "/sounds/katakana/da.mp3"},
+      {"id": 262, "character": "ヂ", "romaji": "ji", "row": "d", "audio": "/sounds/katakana/dji.mp3"},
+      {"id": 263, "character": "ヅ", "romaji": "zu", "row": "d", "audio": "/sounds/katakana/dzu.mp3"},
+      {"id": 264, "character": "デ", "romaji": "de", "row": "d", "audio": "/sounds/katakana/de.mp3"},
+      {"id": 265, "character": "ド", "romaji": "do", "row": "d", "audio": "/sounds/katakana/do.mp3"},
+      
+      {"id": 266, "character": "バ", "romaji": "ba", "row": "b", "audio": "/sounds/katakana/ba.mp3"},
+      {"id": 267, "character": "ビ", "romaji": "bi", "row": "b", "audio": "/sounds/katakana/bi.mp3"},
+      {"id": 268, "character": "ブ", "romaji": "bu", "row": "b", "audio": "/sounds/katakana/bu.mp3"},
+      {"id": 269, "character": "ベ", "romaji": "be", "row": "b", "audio": "/sounds/katakana/be.mp3"},
+      {"id": 270, "character": "ボ", "romaji": "bo", "row": "b", "audio": "/sounds/katakana/bo.mp3"},
+      
+      {"id": 271, "character": "パ", "romaji": "pa", "row": "p", "audio": "/sounds/katakana/pa.mp3"},
+      {"id": 272, "character": "ピ", "romaji": "pi", "row": "p", "audio": "/sounds/katakana/pi.mp3"},
+      {"id": 273, "character": "プ", "romaji": "pu", "row": "p", "audio": "/sounds/katakana/pu.mp3"},
+      {"id": 274, "character": "ペ", "romaji": "pe", "row": "p", "audio": "/sounds/katakana/pe.mp3"},
+      {"id": 275, "character": "ポ", "romaji": "po", "row": "p", "audio": "/sounds/katakana/po.mp3"}
+    ],
+    "youon": [
+      {"id": 301, "character": "キャ", "romaji": "kya", "row": "ky", "audio": "/sounds/katakana/kya.mp3"},
+      {"id": 302, "character": "キュ", "romaji": "kyu", "row": "ky", "audio": "/sounds/katakana/kyu.mp3"},
+      {"id": 303, "character": "キョ", "romaji": "kyo", "row": "ky", "audio": "/sounds/katakana/kyo.mp3"},
+      
+      {"id": 304, "character": "シャ", "romaji": "sha", "row": "sh", "audio": "/sounds/katakana/sha.mp3"},
+      {"id": 305, "character": "シュ", "romaji": "shu", "row": "sh", "audio": "/sounds/katakana/shu.mp3"},
+      {"id": 306, "character": "ショ", "romaji": "sho", "row": "sh", "audio": "/sounds/katakana/sho.mp3"},
+      
+      {"id": 307, "character": "チャ", "romaji": "cha", "row": "ch", "audio": "/sounds/katakana/cha.mp3"},
+      {"id": 308, "character": "チュ", "romaji": "chu", "row": "ch", "audio": "/sounds/katakana/chu.mp3"},
+      {"id": 309, "character": "チョ", "romaji": "cho", "row": "ch", "audio": "/sounds/katakana/cho.mp3"},
+      
+      {"id": 310, "character": "ニャ", "romaji": "nya", "row": "ny", "audio": "/sounds/katakana/nya.mp3"},
+      {"id": 311, "character": "ニュ", "romaji": "nyu", "row": "ny", "audio": "/sounds/katakana/nyu.mp3"},
+      {"id": 312, "character": "ニョ", "romaji": "nyo", "row": "ny", "audio": "/sounds/katakana/nyo.mp3"},
+      
+      {"id": 313, "character": "ヒャ", "romaji": "hya", "row": "hy", "audio": "/sounds/katakana/hya.mp3"},
+      {"id": 314, "character": "ヒュ", "romaji": "hyu", "row": "hy", "audio": "/sounds/katakana/hyu.mp3"},
+      {"id": 315, "character": "ヒョ", "romaji": "hyo", "row": "hy", "audio": "/sounds/katakana/hyo.mp3"},
+      
+      {"id": 316, "character": "ミャ", "romaji": "mya", "row": "my", "audio": "/sounds/katakana/mya.mp3"},
+      {"id": 317, "character": "ミュ", "romaji": "myu", "row": "my", "audio": "/sounds/katakana/myu.mp3"},
+      {"id": 318, "character": "ミョ", "romaji": "myo", "row": "my", "audio": "/sounds/katakana/myo.mp3"},
+      
+      {"id": 319, "character": "リャ", "romaji": "rya", "row": "ry", "audio": "/sounds/katakana/rya.mp3"},
+      {"id": 320, "character": "リュ", "romaji": "ryu", "row": "ry", "audio": "/sounds/katakana/ryu.mp3"},
+      {"id": 321, "character": "リョ", "romaji": "ryo", "row": "ry", "audio": "/sounds/katakana/ryo.mp3"},
+      
+      {"id": 322, "character": "ギャ", "romaji": "gya", "row": "gy", "audio": "/sounds/katakana/gya.mp3"},
+      {"id": 323, "character": "ギュ", "romaji": "gyu", "row": "gy", "audio": "/sounds/katakana/gyu.mp3"},
+      {"id": 324, "character": "ギョ", "romaji": "gyo", "row": "gy", "audio": "/sounds/katakana/gyo.mp3"},
+      
+      {"id": 325, "character": "ジャ", "romaji": "ja", "row": "j", "audio": "/sounds/katakana/ja.mp3"},
+      {"id": 326, "character": "ジュ", "romaji": "ju", "row": "j", "audio": "/sounds/katakana/ju.mp3"},
+      {"id": 327, "character": "ジョ", "romaji": "jo", "row": "j", "audio": "/sounds/katakana/jo.mp3"},
+      
+      {"id": 328, "character": "ビャ", "romaji": "bya", "row": "by", "audio": "/sounds/katakana/bya.mp3"},
+      {"id": 329, "character": "ビュ", "romaji": "byu", "row": "by", "audio": "/sounds/katakana/byu.mp3"},
+      {"id": 330, "character": "ビョ", "romaji": "byo", "row": "by", "audio": "/sounds/katakana/byo.mp3"},
+      
+      {"id": 331, "character": "ピャ", "romaji": "pya", "row": "py", "audio": "/sounds/katakana/pya.mp3"},
+      {"id": 332, "character": "ピュ", "romaji": "pyu", "row": "py", "audio": "/sounds/katakana/pyu.mp3"},
+      {"id": 333, "character": "ピョ", "romaji": "pyo", "row": "py", "audio": "/sounds/katakana/pyo.mp3"}
+    ]
+  },
+  "quiz": [
+    {
+      "question": "What is the romaji for this character: あ",
+      "options": ["a", "i", "u", "e"],
+      "correctAnswer": "a",
+      "audio": "/sounds/hiragana/a.mp3"
+    },
+    {
+      "question": "What is the romaji for this character: か",
+      "options": ["ka", "ki", "ku", "ke"],
+      "correctAnswer": "ka",
+      "audio": "/sounds/hiragana/ka.mp3"
+    },
+    {
+      "question": "What is the romaji for this character: ア",
+      "options": ["a", "i", "u", "e"],
+      "correctAnswer": "a",
+      "audio": "/sounds/katakana/a.mp3"
+    },
+    {
+      "question": "What is the romaji for this character: カ",
+      "options": ["ka", "ki", "ku", "ke"],
+      "correctAnswer": "ka",
+      "audio": "/sounds/katakana/ka.mp3"
+    },
+    {
+      "question": "Which character represents 'shi' in Hiragana?",
+      "options": ["し", "さ", "す", "せ"],
+      "correctAnswer": "し",
+      "audio": "/sounds/hiragana/shi.mp3"
+    },
+    {
+      "question": "Which character represents 'chi' in Katakana?",
+      "options": ["チ", "タ", "ツ", "テ"],
+      "correctAnswer": "チ",
+      "audio": "/sounds/katakana/chi.mp3"
+    },
+    {
+      "question": "What is the dakuten version of か?",
+      "options": ["が", "ざ", "だ", "ば"],
+      "correctAnswer": "が",
+      "audio": "/sounds/hiragana/ga.mp3"
+    },
+    {
+      "question": "What is the youon version of き + ゃ?",
+      "options": ["きゃ", "しゃ", "ちゃ", "にゃ"],
+      "correctAnswer": "きゃ",
+      "audio": "/sounds/hiragana/kya.mp3"
+    }
+  ]
+}
