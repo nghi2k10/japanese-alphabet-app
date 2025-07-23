@@ -85,7 +85,6 @@ const QuizPage: React.FC<QuizPageProps> = ({ hiragana, katakana }) => {
   return (
     <div className="container">
       <header>
-        <h1>Kana Master</h1>
         <div className="controls">
           <div className="mode-selector">
             <button
@@ -109,7 +108,7 @@ const QuizPage: React.FC<QuizPageProps> = ({ hiragana, katakana }) => {
                 checked={includeYouon}
                 onChange={(e) => setIncludeYouon(e.target.checked)}
               />
-              Include Youon (Âm ghép)
+              Include Youon (Youon)
             </label>
             <label>
               <input
@@ -117,7 +116,7 @@ const QuizPage: React.FC<QuizPageProps> = ({ hiragana, katakana }) => {
                 checked={includeDakuten}
                 onChange={(e) => setIncludeDakuten(e.target.checked)}
               />
-              Include Dakuten (Âm đục)
+              Include Dakuten (Dakuten)
             </label>
           </div>
 
@@ -154,7 +153,7 @@ const QuizPage: React.FC<QuizPageProps> = ({ hiragana, katakana }) => {
                 }
               }}
               placeholder="Type romaji..."
-              disabled={showNext}
+              readOnly={showNext}
             />
             {!showNext ? (
               <button id="check-btn" onClick={checkAnswer}>

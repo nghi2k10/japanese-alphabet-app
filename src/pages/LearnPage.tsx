@@ -52,24 +52,6 @@ const LearnPage: React.FC<LearnPageProps> = ({ hiragana, katakana }) => {
               groupByRow={true}
             />
           </div>
-        
-        {/* <div className="right-sections">
-          <div className="dakuten-section">
-            <AlphabetGrid 
-              characters={currentKana.dakuten} 
-              title="Dakuten" 
-              groupByRow={true}
-            />
-          </div>
-          
-          <div className="youon-section">
-            <AlphabetGrid 
-              characters={currentKana.youon} 
-              title="Youon" 
-              groupByRow={true}
-            />
-          </div>
-        </div> */}
       </div>
     </div>
   );

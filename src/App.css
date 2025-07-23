@@ -368,12 +368,6 @@ body {
   transition: transform 0.2s ease;
 }
 
-.basic-section:hover,
-.dakuten-section:hover,
-.youon-section:hover {
-  transform: translateY(-2px);
-}
-
 .basic-section h2,
 .dakuten-section h2,
 .youon-section h2 {
@@ -383,15 +377,6 @@ body {
   font-weight: 700;
   text-align: center;
 }
-
-
-
-/* .right-sections {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
-} */
 
 /* Alphabet Grid Styles */
 .alphabet-section {
